@@ -4,4 +4,4 @@ this is the solution to the  [Qr Component]([https://github.com](https://www.fro
 ![qris-component](https://github.com/RizqiSugiarto/Qr-component---FrontEnd-Mentor-Solution/assets/117559142/5a27917d-f620-4007-b021-72ed9bf0be54)
 
 
-liveServer: 
+liveServer: https://rizqisugiarto.github.io/Qr-component---FrontEnd-Mentor-Solution/
